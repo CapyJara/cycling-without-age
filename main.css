@@ -11,7 +11,7 @@ h1 {
 h2 {
     text-align: center;
     margin-bottom: 5px;
-    margin-top: 5px;2
+    margin-top: 5px;
 }
 
 #nav-bar {
@@ -23,4 +23,15 @@ h2 {
 
 a {
     color: rgb(17, 0, 255);
+}
+
+#story-inputs {
+    background: tan;
+    display: flex;
+    flex-direction: column
+}
+
+#new-story-title-input {
+    height: 10px;
+    width: 180px;
 }
